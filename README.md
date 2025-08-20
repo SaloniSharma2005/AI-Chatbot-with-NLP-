@@ -70,3 +70,6 @@ Natural Language Processing fundamentals
 Building interactive Python applications
 
 Designing conversational logic
+
+output:
+<img width="835" height="197" alt="image" src="https://github.com/user-attachments/assets/e8ac9909-168e-40a0-acb4-8d668f947981" />
